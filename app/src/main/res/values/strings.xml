@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2tapp_hw1</string>
+    <string name="_0">0</string>
+    <string name="square_of_the_number">Square of the number</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="go_to_main_activity">Go to Main Activity</string>
+</resources>
